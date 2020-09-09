@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Credit-Card-NFC-Reader.iml" filepath="$PROJECT_DIR$/Credit-Card-NFC-Reader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Credit-Card-NFC-Reader.iml" filepath="$PROJECT_DIR$/Credit-Card-NFC-Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Credit-Card-NFC-Reader-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Credit-Card-NFC-Reader-app.iml" group="Credit-Card-NFC-Reader/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudioProjects-Credit-Card-NFC-Reader.iml" filepath="$PROJECT_DIR$/.idea/modules/StudioProjects-Credit-Card-NFC-Reader.iml" group="Credit-Card-NFC-Reader" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/creditCardNfcReader/creditCardNfcReader.iml" filepath="$PROJECT_DIR$/creditCardNfcReader/creditCardNfcReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creditCardNfcReader/creditCardNfcReader.iml" filepath="$PROJECT_DIR$/creditCardNfcReader/creditCardNfcReader.iml" group="Credit-Card-NFC-Reader/creditCardNfcReader" />
     </modules>
   </component>
 </project>
